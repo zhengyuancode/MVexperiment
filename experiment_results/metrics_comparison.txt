@@ -1,0 +1,5 @@
+| Metric         | Baseline  | Attention |
+|----------------|-----------|-----------|
+| Final Val Loss | 1.4052 | 1.5266 |
+| Final Val Acc  | 0.6500 | 0.8200 |
+| Final mIoU     | 0.73      | 0.83      |
